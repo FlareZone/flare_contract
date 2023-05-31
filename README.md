@@ -21,3 +21,8 @@ https://www.oklink.com/cn/oktc-test/address/0x880AdCf999F7f90ad4598704Bc487A76C6
 https://www.oklink.com/cn/oktc-test/address/0x7ba0b3845b52fc8e588b64b6ab0178c079d3c4e3
 
 1. add auto call endBet
+
+### version 0.0.4
+https://www.oklink.com/cn/oktc-test/address/0xce475a7b4a85b10530fc24ae13b1dd00657a98ae
+
+1. Multiple bets are posted simultaneously

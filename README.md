@@ -27,3 +27,7 @@ old: https://www.oklink.com/cn/oktc-test/address/0xce475a7b4a85b10530fc24ae13b1d
 new: https://www.oklink.com/cn/oktc-test/address/0xc0743e95f5cbe516bd7a90e8a4b8946185ccb750
 
 1. Multiple bets are posted simultaneously
+
+#### deploy in bsc network
+
+- https://testnet.bscscan.com/address/0xb43da67840856167a627b5bfcdab4a86ba686a24
